@@ -34,7 +34,7 @@ import { Component } from '@angular/core';
               Login: mjrharrison001@gmail.com<br>
               Password: 5e1443c1<br><i>(30 day trial)</i></p>
               <p><a href="https://crm-simulation.herokuapp.com/users">Node.JS URL</a></p>
-              <p><a href="https://crm-simulation.herokuapp.com/users">Node.JS GitHub</a></p>
+              <p><a href="https://github.com/mjrharrison001/CRM-Sim-Back-End.git">Node.JS GitHub</a></p>
               <p><a routerLink="users">See Scanned Driver's Licences</a></p>
               <p> - Michael Harrison</p>
               </div>
