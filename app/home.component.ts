@@ -36,7 +36,6 @@ import { Component } from '@angular/core';
               <p><a href="https://crm-simulation.herokuapp.com/users">Node.JS URL</a></p>
               <p><a href="https://crm-simulation.herokuapp.com/users">Node.JS GitHub</a></p>
               <p><a routerLink="users">See Scanned Driver's Licences</a></p>
-              <p><a href="https://crm-simulation.herokuapp.com/users">This Angular 2 GitHub</a></p>
               <p> - Michael Harrison</p>
               </div>
               </div>
